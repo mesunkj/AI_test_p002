@@ -71,6 +71,10 @@ github
       4.3. select files to be synced then keyin sign "+"
       4.4. at last, press sign "V" at right side of button "提交" and select "提交推送"
       4.5. check all files if sync done at gitHub 
+      4.6. as secret key exist in file, sync action will be blocked 
+          4.6.1 to do action about cancel block sync while file include secret key
+          4.6.2 press 'view code' in error prompt window, 
+          4.6.3 then find link with text 'or allow user with secret key in file'
 
 
 
